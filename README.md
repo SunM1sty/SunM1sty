@@ -1,16 +1,15 @@
 ### ✨Hi, I am Vladimir Kozhukhar✨
 
-~~~
-ISUCT Student🤔
-~~~
-
-
 - **🔭 I’m currently working on testing system**
 - **🌱 I’m currently learning: ASP.Net Core, React + TypeScript**
 - **📫 How to reach me**:
-              ***inst: m1sty729**
-              ***vk: m1sty666**
-              ***email: m1stygit@gmail.com**
+              **inst: m1sty729**
+              **vk: m1sty666**
+              **email: m1stygit@gmail.com**
+              
+~~~
+ISUCT Student🤔
+~~~
 
 <!--
 **SunM1sty/SunM1sty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
