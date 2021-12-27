@@ -5,9 +5,9 @@ ISUCT Student🤔
 ~~~
 
 
-1. 🔭 I’m currently working on testing system
-2. 🌱 I’m currently learning: ASP.Net Core, React + TypeScript
-3. 📫 How to reach me: 
+-      🔭 I’m currently working on testing system
+-      🌱 I’m currently learning: ASP.Net Core, React + TypeScript
+-      📫 How to reach me: 
        inst: m1sty729
        vk: m1sty666
        email: m1stygit@gmail.com
