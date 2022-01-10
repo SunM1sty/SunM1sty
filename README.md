@@ -1,8 +1,4 @@
-### ✨Hi, I am Vladimir Kozhukhar✨
-
-- **🔭 I’m currently working on testing system**
-- **🌱 I’m currently learning: ASP.Net Core, React + TypeScript**
-- **📫 How to reach me**:
+##ASP.Net Core, React + TypeScript
   - ***inst: m1sty729***
   - ***vk: m1sty666***
   - ***email: m1stygit@gmail.com***
