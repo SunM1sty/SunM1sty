@@ -1,7 +1,8 @@
-##ASP.Net Core, React + TypeScript##
-  - ***inst: m1sty729***
-  - ***vk: m1sty666***
-  - ***email: m1stygit@gmail.com***
+## ASP.Net Core, React + TypeScript
+
+  - **inst: m1sty729**
+  - **vk: m1sty666**
+  - **email: m1stygit@gmail.com**
               
 ~~~
 ISUCT Student🤔
