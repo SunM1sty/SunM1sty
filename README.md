@@ -6,5 +6,6 @@
               
 ~~~
 ~~~
-![tumblr_oj802yQdQi1sqtg5co2_r7_400](https://user-images.githubusercontent.com/71171622/150668984-b9e686c6-757b-47d2-b7f3-87b4338b222c.gif)
-~~~
+
+   ![tumblr_oj802yQdQi1sqtg5co2_r7_400](https://user-images.githubusercontent.com/71171622/150668984-b9e686c6-757b-47d2-b7f3-87b4338b222c.gif)
+
