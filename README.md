@@ -1,4 +1,4 @@
-## ASP.Net Core, React + TypeScript
+## Beginner
 
   - **inst: m1sty729**
   - **vk: m1sty666**
