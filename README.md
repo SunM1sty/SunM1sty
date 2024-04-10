@@ -1,6 +1,7 @@
-## Middle Frontend Developer
+## Middle Software Developer
 
   - **inst: m1sty729**
+  - **telegram: @M1sty729**
   - **vk: m1sty666**
   - **email: m1stygit@gmail.com**
               
